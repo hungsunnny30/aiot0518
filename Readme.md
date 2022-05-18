@@ -1,4 +1,4 @@
-# Huan Chen's Homework #5
+# Sunny Hung's Homework #5
 
 ## Lecture 13: IoT Flask Web (github, vs code)
 ### Development Environment Setup
